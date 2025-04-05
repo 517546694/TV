@@ -1,4 +1,4 @@
-[
+{ "urls":[
     {"url":"https://dh.fookxue.cn/tvboxTW/fengxue/api.json","name":"FENGXUE"},
     {"url":"https://github.com/heroaku/TVboxo/raw/main/Text/ptest.json","name":"heroaku_ptest" },
     {"url":"https://github.com/heroaku/TVboxo/raw/main/Text/pyn.json","name":"heroaku_pyn" },
@@ -24,4 +24,4 @@
     {"url":"https://github.com/anaer/Meow/raw/main/meow.json","name":"anaer_meow"},
     {"url":"https://github.com/hackyjso/box/raw/main/jzy.txt","name":"hackyjso_jzy"}
     {"url":"https://raw.githubusercontent.com/517546694/TV/refs/heads/main/18%2B%2B%2B%2B%2B%2B-3.json","name":"18+"}
-]
+]}
