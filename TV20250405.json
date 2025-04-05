@@ -1,5 +1,4 @@
 { "urls": [
-    {"url":"https://dh.fookxue.cn/tvboxTW/fengxue/api.json","name":"FENGXUE"},
     {"url":"https://github.com/heroaku/TVboxo/raw/main/Text/ptest.json","name":"heroaku_ptest" },
     {"url":"https://github.com/heroaku/TVboxo/raw/main/Text/pyn.json","name":"heroaku_pyn" },
     {"url":"https://github.com/heroaku/TVboxo/raw/main/Text/ayn.json","name":"heroaku_ayn" },
